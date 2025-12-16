@@ -9,4 +9,4 @@ document.querySelectorAll('*').forEach(el => {
 });
 ```
 
-have fun. 
+Have fun. 
