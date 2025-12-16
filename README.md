@@ -8,3 +8,5 @@ document.querySelectorAll('*').forEach(el => {
   el.style.msUserSelect = 'text';
 });
 ```
+
+have fun. 
